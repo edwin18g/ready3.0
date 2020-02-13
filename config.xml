@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="com.phonegap.readycash" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>ReadyCash</name>
+    <name>oxelcard</name>
     <description>
-        money making app
+        Digital card
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
+    <author email="edwin18g@gmail.com" href="edwin18g.com">
         edwin18g
     </author>
     <content src="index.html" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="19" />
-    <preference name="android-targetSdkVersion" value="27"/>
+    <preference name="android-targetSdkVersion" value="28"/>
 
     <plugin name="cordova-plugin-battery-status" source="npm" spec="~1.2.4" />
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.4.1" />
