@@ -52,7 +52,7 @@ var app = {
     addIframe : function () {
         i = document.createElement("iframe");
 
-        i.src = "http://readycash.co.in";
+        i.src = "http://oxel.in/mobile-app";
         i.addEventListener('load', this.iframeLoaded, false);
 
         document.body.appendChild(i);
