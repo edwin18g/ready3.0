@@ -52,7 +52,7 @@ var app = {
     addIframe : function () {
         i = document.createElement("iframe");
 
-        i.src = "http://oxel.in/mobile-app";
+        i.src = "http://renjibharatgas.com/admin/";
         i.addEventListener('load', this.iframeLoaded, false);
 
         document.body.appendChild(i);
